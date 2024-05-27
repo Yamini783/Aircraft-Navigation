@@ -6,12 +6,13 @@ Collects real-time weather and flight data
 Identifies potential risks and scenarios
 Implements optimal route planning algorithm
 Provides a user-friendly dashboard for real-time updates
+
 Setup
 Prerequisites
-Python
-Flask
-PostgreSQL
-HTML, CSS, JavaScript
+*Python
+*Flask
+*PostgreSQL
+*HTML, CSS, JavaScript
 
 Installation
 Clone the repository: sh git clone https://github.com/yourusername/flight-navigation-system.git 
